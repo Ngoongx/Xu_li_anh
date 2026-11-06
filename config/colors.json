@@ -1,0 +1,18 @@
+{
+  "enabled_colors": ["red", "orange", "yellow", "green", "blue", "purple"],
+  "processing": {
+    "min_area": 500,
+    "gaussian_kernel": 5,
+    "morphology_kernel": 5,
+    "open_iterations": 1,
+    "close_iterations": 1
+  },
+  "colors": {
+    "red": {"name": "Đỏ", "ranges": [[[0, 100, 80], [10, 255, 255]], [[170, 100, 80], [179, 255, 255]]], "bgr": [0, 0, 255]},
+    "orange": {"name": "Cam", "ranges": [[[11, 100, 80], [22, 255, 255]]], "bgr": [0, 140, 255]},
+    "yellow": {"name": "Vàng", "ranges": [[[23, 100, 80], [34, 255, 255]]], "bgr": [0, 220, 255]},
+    "green": {"name": "Xanh lá", "ranges": [[[35, 100, 80], [85, 255, 255]]], "bgr": [0, 200, 0]},
+    "blue": {"name": "Xanh dương", "ranges": [[[86, 100, 80], [125, 255, 255]]], "bgr": [255, 100, 0]},
+    "purple": {"name": "Tím", "ranges": [[[126, 100, 80], [169, 255, 255]]], "bgr": [200, 0, 180]}
+  }
+}

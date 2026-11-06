@@ -1,0 +1,16 @@
+﻿blue,file,green,orange,purple,red,result,status,total,yellow
+1,01_Bon_vat_the_bong_do_xanh_la_xanh_duong_vang.jpg,1,0,0,1,results\sample_images\01_Bon_vat_the_bong_do_xanh_la_xanh_duong_vang_result.png,OK,4,1
+1,02_Cac_khoi_hinh_hoc_bon_mau.jpg,1,0,0,1,results\sample_images\02_Cac_khoi_hinh_hoc_bon_mau_result.png,OK,4,1
+1,03_Bon_do_choi_nhieu_mau.jpg,1,0,0,1,results\sample_images\03_Bon_do_choi_nhieu_mau_result.png,OK,4,1
+1,04_Tap_hop_trai_cay_va_bong_nhieu_mau.jpg,2,1,0,1,results\sample_images\04_Tap_hop_trai_cay_va_bong_nhieu_mau_result.png,OK,6,1
+0,05_Den_giao_thong_do_vang_xanh_la.jpg,1,0,0,1,results\sample_images\05_Den_giao_thong_do_vang_xanh_la_result.png,OK,3,1
+1,06_But_chi_bon_mau_tren_nen_sang.jpg,1,0,0,1,results\sample_images\06_But_chi_bon_mau_tren_nen_sang_result.png,OK,4,1
+1,07_Nhieu_vat_the_kich_thuoc_khac_nhau.jpg,1,1,0,1,results\sample_images\07_Nhieu_vat_the_kich_thuoc_khac_nhau_result.png,OK,5,1
+2,08_Anh_thuc_te_den_giao_thong.jpg,0,0,0,3,results\sample_images\08_Anh_thuc_te_den_giao_thong_result.png,OK,5,0
+0,09_Anh_thuc_te_trang_phuc_nhieu_mau.jpg,1,1,0,0,results\sample_images\09_Anh_thuc_te_trang_phuc_nhieu_mau_result.png,OK,4,2
+2,10_Anh_thuc_te_bo_hoa_nhieu_mau.jpg,0,0,0,0,results\sample_images\10_Anh_thuc_te_bo_hoa_nhieu_mau_result.png,OK,5,3
+1,11_Anh_thuc_te_cuon_vat_lieu_nhieu_mau.jpg,1,1,0,1,results\sample_images\11_Anh_thuc_te_cuon_vat_lieu_nhieu_mau_result.png,OK,5,1
+0,12_Anh_thuc_te_tham_thuc_vat_xanh.jpg,3,0,0,0,results\sample_images\12_Anh_thuc_te_tham_thuc_vat_xanh_result.png,OK,3,0
+0,13_Anh_thuc_te_qua_cam_mau_cam.jpg,0,1,0,2,results\sample_images\13_Anh_thuc_te_qua_cam_mau_cam_result.png,OK,3,0
+4,14_Anh_thuc_te_san_ho_nhieu_mau.jpg,0,2,0,3,results\sample_images\14_Anh_thuc_te_san_ho_nhieu_mau_result.png,OK,10,1
+1,16_Kiem_thu_mau_duoi_anh_sang_yeu_am.jpg,1,0,0,1,results\sample_images\16_Kiem_thu_mau_duoi_anh_sang_yeu_am_result.png,OK,4,1
